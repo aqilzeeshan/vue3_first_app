@@ -1,4 +1,5 @@
-# first_app
+# First Vue App
+* Shows basic structure of a page using header and footer components
 
 ## Project setup
 ```
